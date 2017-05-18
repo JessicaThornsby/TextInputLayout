@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/jessicathornsby/Downloads/TextInput/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=52c8c116cb42c4f4a828f95c9d330c6aa61a1a8d
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
